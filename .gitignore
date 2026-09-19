@@ -1,0 +1,11 @@
+# secrets
+.env
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# local vector db created by the notebook
+chroma_mutual_funds_db/
